@@ -1,0 +1,19 @@
+{
+  "name": "bird-nest",
+  "version": "1.0.0",
+  "description": "A backend to recieve images and environmental data from a bird nest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerranGarcia/bird-nest.git"
+  },
+  "author": "Ferran Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerranGarcia/bird-nest/issues"
+  },
+  "homepage": "https://github.com/FerranGarcia/bird-nest#readme"
+}
